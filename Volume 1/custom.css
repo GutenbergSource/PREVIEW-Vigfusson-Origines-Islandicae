@@ -1,0 +1,143 @@
+
+/*
+*[lang=is] { outline: #3333ff solid thin; }
+
+*[lang=en] { outline: #00cc00 solid thin; }
+
+*[lang=la] { outline: #ff0000 solid thin; }
+*/
+
+
+body {
+    font-family: "Doulos SIL", freeSerif, serif;
+}
+
+table.alignedtext {
+    table-layout: fixed;
+    border-collapse: collapse:
+    width: 100%;
+}
+
+td.first {
+    width: 46% !important;
+}
+
+td.second {
+    width: 54% !important;
+    /* font-size: small; */
+}
+
+td.second .pagenum {
+    display: none;
+}
+
+td.first .par:last-child, td.second .par:last-child { margin-bottom: 0; }
+
+div.footnote-body {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+p.apparatus, .par.apparatus {
+    font-size: small;
+}
+
+a.apparatusnote {
+    color: #AAAAAA;
+}
+
+span.apparatus-note:after {
+    content: " ";
+    margin-right: 1em;
+}
+
+p.apparatus:first-child, .par.apparatus:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.textual-notes-body {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+div.letter div.divBody {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
+div.letter p.first {
+    margin-top: 0;
+}
+
+div.letter p {
+    margin-left: 1em;
+    text-indent: -1em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p.apparatus.cont {
+    text-indent: 0;
+}
+
+.lineNum {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 14%;
+    font-weight: bold;
+    color: #800000;
+    font-size: small;
+}
+
+.lineNumColor {
+    font-weight: bold;
+    color: #800000;
+}
+
+.lineNumRef {
+    font-weight: bold;
+    color: #006600;
+}
+
+.lineNumRefColor {
+    font-weight: bold;
+    color: #006600;
+}
+
+.textRef {
+    color: #800000;
+}
+
+.textRefColor {
+    color: #800000;
+}
+
+.parNum {
+    font-size: large;
+    font-weight: bold;
+    color: #000099;
+}
+
+.parNumColor {
+    font-weight: bold;
+    color: #000099;
+}
+
+.parNum b {
+    font-size: larger;
+}
+
+.small {
+    font-size: small;
+}
+
+.largebold {
+    font-size: large;
+    font-weight: bold;
+}
+

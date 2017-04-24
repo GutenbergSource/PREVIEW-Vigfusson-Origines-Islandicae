@@ -1,0 +1,30 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="11258" filedate="2015-03-13 21:22:24" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="47225" filedate="2015-03-13 21:21:45" width="480px" height="720px">
+</image>
+<image path="images/openring.png" filesize="224" filedate="2016-02-18 22:32:47" width="14px" height="12px">
+</image>
+<image path="images/p0238.png" filesize="6436" filedate="2016-02-18 22:35:11" width="535px" height="176px">
+</image>
+<image path="images/p0333-1.png" filesize="8656" filedate="2016-02-20 16:15:25" width="411px" height="346px">
+</image>
+<image path="images/p0333-2.png" filesize="9815" filedate="2016-02-20 16:18:06" width="535px" height="305px">
+</image>
+<image path="images/p0337.png" filesize="6237" filedate="2016-02-20 15:59:37" width="222px" height="184px">
+</image>
+<image path="images/p0338.png" filesize="39026" filedate="2016-02-20 16:05:39" width="609px" height="720px">
+</image>
+<image path="images/p0422.png" filesize="4699" filedate="2016-02-20 16:09:50" width="506px" height="120px">
+</image>
+<image path="images/p0424.png" filesize="1755" filedate="2016-02-20 16:12:13" width="255px" height="90px">
+</image>
+<image path="images/titlepage.png" filesize="12198" filedate="2016-02-18 22:45:53" width="426px" height="720px">
+</image>
+</images>
